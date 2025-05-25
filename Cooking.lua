@@ -781,28 +781,6 @@ rm.recipeDB[185] = {
 		skill = 175,
 		spell = 20916,
 	},
-	[17200] = {
-		difficulty = {
-			1,
-			45,
-			65,
-			85,
-		},
-		item = 17197,
-		skill = 1,
-		spell = 21143,
-	},
-	[17201] = {
-		difficulty = {
-			35,
-			75,
-			95,
-			115,
-		},
-		item = 17198,
-		skill = 35,
-		spell = 21144,
-	},
 	[17222] = {
 		difficulty = {
 			200,
